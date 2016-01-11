@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hang_man.Start&apos; to &apos;Start_and_Setup&apos;&#x0D;&#x0A;- Original project: &apos;Hang man 행맨 게임&apos;&#x0D;&#x0A;- Original element: &apos;hang_man.Start&apos;&#x0D;&#x0A;- Renamed element: &apos;hang_man.Start_and_Setup&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Start&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hang_man{Start.java[Start" matchStrategy="1" name="Start_and_Setup" qualified="false" references="true" similarDeclarations="false" stamp="1397483956791" textual="false" version="1.0"/>
+</session>

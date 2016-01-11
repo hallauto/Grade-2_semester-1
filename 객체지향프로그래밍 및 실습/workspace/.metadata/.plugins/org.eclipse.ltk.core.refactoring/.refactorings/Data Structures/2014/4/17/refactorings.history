@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;example5_DoubleLinkedSeq.DoubleLinkSeq.java&apos; to &apos;DoubleLinkedSeq.java&apos;&#x0D;&#x0A;- Original project: &apos;Data Structures&apos;&#x0D;&#x0A;- Original element: &apos;example5_DoubleLinkedSeq.DoubleLinkSeq.java&apos;&#x0D;&#x0A;- Renamed element: &apos;example5_DoubleLinkedSeq.DoubleLinkedSeq.java&apos;" description="Rename compilation unit &apos;DoubleLinkSeq.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;example5_DoubleLinkedSeq{DoubleLinkSeq.java" name="DoubleLinkedSeq.java" references="false" stamp="1398083529095" version="1.0"/>
+</session>

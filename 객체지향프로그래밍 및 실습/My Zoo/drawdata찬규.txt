@@ -1,0 +1,4 @@
+draw.dat3:기린(정지)
+draw.dat4:코끼리(정지)
+draw.dat9:기린(걷기)
+draw.dat10:코끼리(걷기)

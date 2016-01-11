@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ssu_user/Desktop/객체지향 프로그래밍 및 실습/My Zoo/오선/Sound/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

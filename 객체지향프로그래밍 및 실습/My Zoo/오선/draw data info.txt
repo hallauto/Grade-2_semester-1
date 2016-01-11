@@ -1,0 +1,4 @@
+draw.dat1	µÅÁö
+draw.dat2	Æë±Ï
+draw.dat3	±â¸°
+draw.dat4	ÄÚ³¢¸®

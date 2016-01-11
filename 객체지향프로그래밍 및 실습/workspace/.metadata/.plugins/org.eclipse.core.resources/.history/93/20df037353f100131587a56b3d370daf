@@ -1,0 +1,21 @@
+package zoo;
+
+import java.awt.BorderLayout;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class Viewer extends JPanel {
+	Controler controler;
+	JFrame frm;
+	
+	public Viewer() {
+		frm = new JFrame("zoo");
+		frm.setBounds(200, 100, 1000, 600);
+		frm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		controler = new Controler();
+		frm.add(controler, BorderLayout.WEST);
+		frm.setVisible(true);
+	}
+	
+}

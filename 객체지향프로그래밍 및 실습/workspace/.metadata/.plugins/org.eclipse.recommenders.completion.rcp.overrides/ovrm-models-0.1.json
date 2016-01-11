@@ -1,0 +1,17 @@
+{
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:ovrm:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\ssu_user\\workspace\\10강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\10강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\10강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO\\src\u0027. Skipped."
+  }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;zoo.Controler&apos; to &apos;Controller&apos;&#x0D;&#x0A;- Original project: &apos;Homework&apos;&#x0D;&#x0A;- Original element: &apos;zoo.Controler&apos;&#x0D;&#x0A;- Renamed element: &apos;zoo.Controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Controler&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;zoo{Controler.java[Controler" matchStrategy="1" name="Controller" qualified="false" references="true" similarDeclarations="false" stamp="1402482646608" textual="false" version="1.0"/>
+</session>

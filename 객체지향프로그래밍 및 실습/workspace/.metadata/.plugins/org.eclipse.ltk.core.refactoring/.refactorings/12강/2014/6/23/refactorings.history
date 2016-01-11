@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;12강/src/bad data.txt&apos; to &apos;baddata.txt&apos;" description="Rename resource &apos;bad data.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/bad data.txt" name="baddata.txt" stamp="1401616281925" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;12강/src/good data.txt&apos; to &apos;gooddata.txt&apos;" description="Rename resource &apos;good data.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/good data.txt" name="gooddata.txt" stamp="1401616289055" updateReferences="true"/>
+</session>

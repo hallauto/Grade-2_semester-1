@@ -1,0 +1,88 @@
+{
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\Lotto\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\Lotto\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\Lotto\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\4강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\4강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\4강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\Data Structures\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\Data Structures\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\Data Structures\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\5강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\5강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\5강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\6강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\6강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\6강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\Hang man 행맨 게임\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\Hang man 행맨 게임\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\Hang man 행맨 게임\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\8강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\8강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\8강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\9강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\9강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\9강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\10강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\10강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\10강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\Moving Robot\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\Moving Robot\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\Moving Robot\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\11강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\11강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\11강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\12강\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\12강\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\12강\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO\\src\u0027. Skipped."
+  },
+  "C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO 오선\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO 오선\\src",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\ssu_user\\workspace\\JAVA 팀프로젝트 MY ZOO 오선\\src\u0027. Neither fingerprint \u0027null\u0027 nor symbolic name \u0027null\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jdk1.7.0_51\\jre\\lib\\jfxrt.jar": {
+    "location": "C:\\Program Files\\Java\\jdk1.7.0_51\\jre\\lib\\jfxrt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jdk1.7.0_51\\jre\\lib\\jfxrt.jar\u0027. Neither fingerprint \u002722a972048ef0613b974d1d99576ac82bf12ef73b\u0027 nor symbolic name \u0027jfxrt\u0027 are known."
+  },
+  "C:\\Users\\ssu_user\\workspace\\연습장\\src": {
+    "location": "C:\\Users\\ssu_user\\workspace\\연습장\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\ssu_user\\workspace\\연습장\\src\u0027. Skipped."
+  }
+}
